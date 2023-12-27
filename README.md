@@ -18,4 +18,4 @@ pip install -r requirements.txt
 ```
 
 ## Screenshots
-
+![pieChart](https://github.com/yoganeo22/python-pandas/assets/94224851/28ff1b13-5106-4009-8894-bf93452f376b)
